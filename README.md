@@ -1,6 +1,12 @@
 # Wsearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+- This project aims to improve an understanding of data handling and http requests made in Angular.
+
+- There are two components SearchBar and PageList components. A searchTerm will be used to trigger a search.
+
+- A Http service will be used to fetch data from wikipedia and display the data in PageList component.
+
+![Flow](https://user-images.githubusercontent.com/27942487/156193343-8b989f84-4426-4a4f-936d-deddbeb4a3d3.png)
 
 ## Development server
 
