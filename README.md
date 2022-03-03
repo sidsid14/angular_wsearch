@@ -7,6 +7,7 @@
 - A Http service will be used to fetch data from wikipedia and display the data in PageList component.
 
 ![Flow](https://user-images.githubusercontent.com/27942487/156193343-8b989f84-4426-4a4f-936d-deddbeb4a3d3.png)
+![ScreenShot](https://user-images.githubusercontent.com/27942487/156481509-3c1b8ce6-0b67-42e1-8d18-90ecc871417f.png)
 
 ## Development server
 
