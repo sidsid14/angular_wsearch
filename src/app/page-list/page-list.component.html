@@ -12,10 +12,11 @@
         <tr *ngFor="let page of pages">
           <td>
             <a
+              class="button is-link is-light"
               [href]="'https://en.wikipedia.org?curid=' + page['pageid']"
               target="_blank"
             >
-              <td>{{ page["title"] }}</td>
+              {{ page["title"] }}
             </a>
           </td>
 
